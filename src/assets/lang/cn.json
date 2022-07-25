@@ -1,0 +1,54 @@
+{
+  "header": {
+    "aiApplication": "MANAS"
+  },
+  "lang": {
+    "cn": "简体中文",
+    "en": "English"
+  },
+  "medical": {
+    "tittle1": "人工智能诊断系统会对您上传的肺部CT进行诊断，并给出专业的诊断结果",
+    "tittle2": "人工智能诊断系统经过上千万的专业案例训练学习，更加专业、准确",
+    "example": "示例",
+    "start_experience": "开始体验",
+    "future": "将来不止支持肺部CT，服务范围正在不断扩大中",
+    "pose1": "人体姿态估计是机器视觉的一个重要分支，在行为识别，人家交互，",
+    "pose2": "游戏，动画等领域有着很广阔的应用前景",
+    "pose3": "这里只是我们功能的体验，新功能即将上线",
+    "tips":"本功能仍处于测试阶段，正式版本稍后上线。",
+    "obj": "物体识别可以快速，准确地识别图片内容信息并自动生成文字描述",
+    "mania": "MANIA是MATRIX设计为算法科学家的“艺术作品”转换为NFT的工具，算法科学家可以将AI算法与模型上传至MATRIX的IPFS存储网络上，然后铸造成NFT后进行交易与流通。",
+    "animation": "Animation"
+ 
+  },
+  "privateKey": {
+    "copy": "复制",
+    "custody": "我已保管好私钥",
+    "KeyCopy": "私钥备份",
+    "keyHint": "私钥是一份随机生成的 256 位二进制数字"
+  },
+  "dialog": {
+    "know": "我知道了",
+    "youCan": "您可以在",
+    "record": "交易记录",
+    "browser": "区块链浏览器",
+    "or": "或",
+    "queryDetails": "中查看转账进度及详情"
+  },
+  "ai": {
+    "medical": "医疗诊断-肺癌诊断",
+    "posture": "姿态识别",
+    "object": "物体识别",
+    "mania": "MANIA",
+    "animation": "ANIMATION",
+    "aiRecord": "AI交易记录",
+    "medicalFileType": "文件格式：包含完整的一套医疗影像的dcm压缩文件",
+    "maniafile": "文件格式：支持python格式文件或者python文件压缩包zip格式。",
+    "animationfile":"",
+    "sendTips": "请在此填写您获取诊断结果的邮箱地址（收到结果后也可以在“AI服务记录”中查询） ：",
+    "sendTime": "预计15分钟后，诊断结果发送到你的邮箱",
+    "serviceValue": "该服务会消耗你的",
+    "emailAddress": "邮箱地址",
+    "aiSuccess": "上传成功"
+  }
+}

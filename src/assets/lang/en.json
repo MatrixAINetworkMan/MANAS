@@ -1,0 +1,52 @@
+﻿{
+  "header": {
+    "aiApplication": "MANAS"
+  },
+  "lang": {
+    "cn": "中文简体",
+    "en": "English"
+  },
+  "medical": {
+    "tittle1": "The AI-assisted diagnosis system will provide diagnosis analysis for CT scans of lungs,",
+    "tittle2": "The system was trained on results by labeled by experts from several top hospitals",
+    "example": "Sample image",
+    "start_experience": "Start",
+    "future": "Lung CT scans, as well as many other services, will be supported in the future.",
+    "pose1": "Pose detection is an important branch of computer vision, with valuable applications in detecting actions",
+    "pose2": "human-machine interactions, gaming, animation and more.",
+    "pose3": "Try it out and stay tuned for more new features in the future!",
+    "tips":"This feature is currently being tested and will officially launch with MANIA.",
+    "obj": "Object detection can quickly and accurately generate automatic text labeling for objects in a photograph. ",
+    "mania": "MANIA is a tool designed by Matrix for converting algorithmic scientists’ works into NFTs. Scientists can upload their AI algorithms and models to Matrix ’s IPFS network for storage and use them to mint NFTs to trade and exchange.",
+    "animation": "animation"
+  },
+  "privateKey": {
+    "copy": "copy",
+    "custody": "I’ve recorded my private key",
+    "KeyCopy": "Copy private key",
+    "keyHint": "A private key is a randomly generated string of 256 characters"
+  },
+  "dialog": {
+    "know": "I know",
+    "youCan": "You can",
+    "record": "Transaction record",
+    "browser": "Blockchain browser",
+    "or": "or",
+    "queryDetails": "View transaction progress and details"
+  },
+  "ai": {
+    "medical": "Lung cancer diagnosis",
+    "posture": "pose detection",
+    "object": "object detection",
+    "mania": "MANIA",
+    "animation": "ANIMATION",
+    "aiRecord": "AI  application history",
+    "medicalFileType": "Upload format: please upload CT scans as a compressed DCM file",
+    "maniafile": "Upload format: Support Python file or ZIP format compressed packages of Python files.",
+    "sendTips": "Please input the email address to receive the diagnosis results:",
+    "sendTime": "The Diagnosis Results will be sent to your email address in about 15 minutes",
+    "serviceValue": "This AI task will use",
+    "emailAddress": "Email Address",
+    "aiSuccess": "Successfully Uploaded"
+  }
+}
